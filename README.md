@@ -58,3 +58,4 @@ Aplikasi ini menggunakan komponen-komponen **Java Swing** untuk antarmuka penggu
   Muhammad Ridhoni Ilham 2210010515
 
 ## Demo
+![Demo GIF](https://github.com/Ridhoni123/AplikasiPenghitungHari/blob/main/img/Recording%202024-11-16%20153713%20(2).gif)
